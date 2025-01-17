@@ -45,7 +45,7 @@ h1 {
   display: block;
 }
 .score p {
-  font-size: 24px;
+  font-size: 23px;
   font-weight: 500;
 }
 .msg-container {
@@ -61,5 +61,5 @@ h1 {
   color: #fff;
   font-size: 25px;
   display: block;
-  text-align: center!;
+  text-align: center;
 }
